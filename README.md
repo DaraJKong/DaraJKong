@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![metrics](https://raw.githubusercontent.com/DaraJKong/DaraJKong/main/github-metrics.svg)
+
 <!--
 **DaraJKong/DaraJKong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
