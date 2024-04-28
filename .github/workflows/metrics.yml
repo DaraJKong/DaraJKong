@@ -29,7 +29,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: UTC
-          filename: metrics.plugin.habits.facts.svg
 
           # Plugins
           plugin_languages: yes
